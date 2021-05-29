@@ -9,5 +9,5 @@
   "devicePlatform": "ios",
   "coinAddPriority": 1,
   "skipDailyTask": false,
-  "userAgent": "Win64"
+  "userAgent": "Mozilla/5.0"
 }
