@@ -9,5 +9,5 @@
   "devicePlatform": "ios",
   "coinAddPriority": 1,
   "skipDailyTask": false,
-  "userAgent": "Chrome/86.0.4240.198 "
+  "userAgent": "AppleWebKit/537.36 (KHTML, like Gecko)"
 }
